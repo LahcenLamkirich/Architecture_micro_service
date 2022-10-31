@@ -15,7 +15,7 @@ import java.util.List;
 @Slf4j
 public class StudentController {
     @Autowired
-    StudentService studentService ;
+    StudentService studentService;
 
     @GetMapping
     public List<Student> getAllStudents(){

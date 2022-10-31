@@ -3,6 +3,8 @@ package com.lamkirich.department_service.Service;
 
 import com.lamkirich.department_service.Entities.Department;
 import com.lamkirich.department_service.Repositories.DepartmentRepository;
+import com.lamkirich.department_service.ValueObject.ResponseTemplateValueObject;
+import com.lamkirich.department_service.ValueObject.Student;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
@@ -34,4 +36,11 @@ public class DepartmentService {
         log.info("Get department By Id ");
         return departmentRepository.findById(id).get();
     }
+
+//    public List<Student> getAllStudentsInDepartmentById(Long departmentId){
+//        ResponseTemplateValueObject responseTemplateVO = new ResponseTemplateValueObject();
+//        responseTemplateVO.setDepartment(departmentRepository.findById(departmentId).get());
+//
+//    }
+
 }
