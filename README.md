@@ -13,3 +13,14 @@ Les microservices sont une approche moderne des logiciels dans laquelle le code 
 # Pourquoi créer des microservices ?
 
 Leur petite échelle et leur isolement relatif peuvent entraîner de nombreux avantages supplémentaires, tels qu'une maintenance plus facile, une productivité améliorée, une plus grande tolérance aux pannes, un meilleur alignement des activités, etc.
+
+# Student Service 
+
+![image](https://user-images.githubusercontent.com/63864463/200284867-d7e546a1-d42d-4cde-b80a-b57c0cbdac92.png)
+![image](https://user-images.githubusercontent.com/63864463/200284969-2b0ecbe8-1c3c-4d99-a400-14dc362e3cd5.png)
+![image](https://user-images.githubusercontent.com/63864463/200285059-ec382aec-20c6-4372-9a6d-df34187efd13.png)
+![image](https://user-images.githubusercontent.com/63864463/200285648-bdea046e-b16b-46fc-9ce9-fd5447206529.png)
+![image](https://user-images.githubusercontent.com/63864463/200285757-4c9d32bd-6461-4891-ab3e-003267d6ba79.png)
+
+
+
