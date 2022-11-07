@@ -36,6 +36,11 @@ Leur petite échelle et leur isolement relatif peuvent entraîner de nombreux av
 ![image](https://user-images.githubusercontent.com/63864463/200292423-6b85c2d0-d5ba-42ae-befd-68dfc7f56b5e.png)
 ![image](https://user-images.githubusercontent.com/63864463/200292464-364c418f-5a0d-48c4-9222-bbe9f79185ba.png)
 
+# Hystrix Dashboard 
+
+![image](https://user-images.githubusercontent.com/63864463/200293912-88e3355f-66da-4de3-a742-41073d06478b.png)
+![image](https://user-images.githubusercontent.com/63864463/200293946-4f17c4d1-6a2c-4c0d-98b8-17cb0c3e2aa9.png)
+
 
 
 
