@@ -29,6 +29,14 @@ Leur petite échelle et leur isolement relatif peuvent entraîner de nombreux av
 ![image](https://user-images.githubusercontent.com/63864463/200290873-10878465-4990-4a0e-b121-fc09f7973567.png)
 ![image](https://user-images.githubusercontent.com/63864463/200290934-ab4d4472-a93f-4da1-a719-df6fe57ad4fd.png)
 
+# API-GATEWAY 
+
+![image](https://user-images.githubusercontent.com/63864463/200292327-f10cea83-eca5-42bc-9534-a54104538b2d.png)
+![image](https://user-images.githubusercontent.com/63864463/200292349-f08773bf-d994-4dd2-8f2e-fbbad1b47b85.png)
+![image](https://user-images.githubusercontent.com/63864463/200292423-6b85c2d0-d5ba-42ae-befd-68dfc7f56b5e.png)
+![image](https://user-images.githubusercontent.com/63864463/200292464-364c418f-5a0d-48c4-9222-bbe9f79185ba.png)
+
+
 
 
 
