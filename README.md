@@ -24,6 +24,12 @@ Leur petite échelle et leur isolement relatif peuvent entraîner de nombreux av
 
 # Department Service 
 
+![image](https://user-images.githubusercontent.com/63864463/200290572-4d13a3a8-c606-47f7-adde-645b6549b01e.png)
+![image](https://user-images.githubusercontent.com/63864463/200290781-940a2935-87b1-4ce8-aa12-efe333173bda.png)
+![image](https://user-images.githubusercontent.com/63864463/200290873-10878465-4990-4a0e-b121-fc09f7973567.png)
+![image](https://user-images.githubusercontent.com/63864463/200290934-ab4d4472-a93f-4da1-a719-df6fe57ad4fd.png)
+
+
 
 
 
